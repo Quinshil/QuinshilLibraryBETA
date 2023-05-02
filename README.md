@@ -7,7 +7,7 @@ As i said, really simple, here are some tips:
 
 
 **Getting Loadsting**
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Unknown56406516401563456/Peacock-Lib/main/src.lua"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Quinshil/QuinshilLibraryBETA/main/scr.lua"))()
 
 **Creating UI Library Window**
 local Window = Library:CreateLib {
